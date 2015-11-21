@@ -1,3 +1,11 @@
-C:\Users\Administrator\Desktop\learngit
+﻿C:\Users\Administrator\Desktop\learngit
 //.git是隐藏的，Desktop是桌面。
 //实验回退一把
+
+第二次实验
+
+改了第二次
+
+
+改了第三次
+
